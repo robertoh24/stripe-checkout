@@ -1,0 +1,15 @@
+[{
+    "sku": "DEMO001",
+    "name": "questa è una pianta",
+    "description": "la pianta piu bella che abbiate mai visto",
+    "amount": 10,
+    "currency": "euro"
+
+},{
+    "sku": "DEMO002",
+    "name": "questa è una sedia",
+    "description": "la sedia piu bella che abbiate mai visto",
+    "amount": 8,
+    "currency": "euro"
+
+}]
